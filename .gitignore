@@ -1,0 +1,15 @@
+# Vim undo and tmp files
+*~
+*.swp
+
+# Compiled Object files
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.a
+
+# Executables
+*.out
