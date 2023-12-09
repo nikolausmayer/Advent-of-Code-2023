@@ -13,3 +13,6 @@
 
 # Executables
 *.out
+
+# AoC requests not to include puzzle inputs
+input.txt
